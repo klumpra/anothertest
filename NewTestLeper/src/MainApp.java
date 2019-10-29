@@ -4,5 +4,6 @@ public class MainApp {
 		System.out.println("Hey");
 		System.out.println("Another line");
 		System.out.println("A local change");
+		System.out.println("Change made remotely");
 	}
 }
